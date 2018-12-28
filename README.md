@@ -4,6 +4,5 @@ Git and GitHub
 ***
 I never used Git before so for me it all was brand new. But even for a beginner like me, everything was understandable. In course "Learn Git Branching" I discover more useful commands. I especially liked "cherry-pick", because its very simple and clear.
 
-***
 Linux CLI and Networking
 -----------------------------------
